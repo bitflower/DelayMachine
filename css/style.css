@@ -1,0 +1,11 @@
+.car {
+    width: 50%;
+    height: 30px;
+    background-color: #01FF01;
+}
+
+.carpart {
+    width: 40%;
+    height: 25px;
+    background-color: #FF0101;
+}
