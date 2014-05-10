@@ -1,6 +1,6 @@
 DelayMachine
 ============
 
-The most flexible animation- &amp; transition delay generator on the web.
+The most flexible CSS animation- &amp; transition delay generator on the web.
 
 DEMO: http://delaymachine.bitflower.net/
